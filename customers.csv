@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,address,zip_code,subscription_tier,signup_date,preferred_delivery_day,delivery_notes,churn_risk
+1,Christina,Anderson,hpoole@example.com,7185551001,"90134 Simon Ranch, Brooklyn, NY",11205,16,2025-04-17,Wednesday,Leave with doorman,Low
+2,Lisa,Young,nwhite@example.com,7185551002,"929 Navarro Green, Brooklyn, NY",11205,4,2025-04-17,Wednesday,,Medium
+3,Crystal,Houston,frank65@example.net,7185551003,"24503 Anderson Fords, Brooklyn, NY",11215,4,2025-04-17,Tuesday,Leave with doorman,High
+4,Felicia,Shaw,huntstephanie@example.com,7185551004,"09062 Vasquez Walks, Brooklyn, NY",11201,16,2025-04-17,Monday,Leave at door,Low
+5,Carlos,Carpenter,mannedward@example.org,7185551005,"424 Sarah Ramp, Brooklyn, NY",11205,8,2025-04-17,Wednesday,Leave at door,Low
+6,Tina,Cross,baileyjoseph@example.org,7185551006,"75780 Wallace Grove, Brooklyn, NY",11206,6,2025-04-17,Wednesday,Leave at door,High
+7,Thomas,Cruz,crystal16@example.net,7185551007,"329 Robertson Shoals, Brooklyn, NY",11205,16,2025-04-17,Friday,Ring bell,Low
+8,Sabrina,Campbell,danielfisher@example.net,7185551008,"04657 Eric Valleys, Brooklyn, NY",11206,12,2025-04-17,Tuesday,Leave at door,Low
+9,Terri,Cohen,qward@example.net,7185551009,"2898 Beck Estates, Brooklyn, NY",11215,8,2025-04-17,Thursday,Ring bell,Low
+10,Michelle,Hampton,michael28@example.com,7185551010,"830 Tamara Lock, Brooklyn, NY",11206,8,2025-04-17,Thursday,Leave at door,Low
+11,Hailey,Medina,ubeck@example.com,7185551011,"307 Riley Burg, Brooklyn, NY",11205,6,2025-04-17,Tuesday,Leave with doorman,High
+12,Donald,Morgan,castilloisabella@example.org,7185551012,"4478 Suzanne Freeway, Brooklyn, NY",11217,12,2025-04-17,Thursday,Leave at door,Low
+13,David,Wilson,nbrown@example.com,7185551013,"16579 Jones Shoals, Brooklyn, NY",11205,8,2025-04-17,Friday,Ring bell,High
+14,Elizabeth,Barber,donalddavis@example.org,7185551014,"4004 Dustin Squares, Brooklyn, NY",11215,8,2025-04-17,Friday,,Low
+15,Cynthia,Navarro,wvelasquez@example.net,7185551015,"2392 Kimberly Underpass, Brooklyn, NY",11206,12,2025-04-17,Thursday,Leave at door,Low
+16,Antonio,Fry,ljohnson@example.com,7185551016,"751 Susan Points, Brooklyn, NY",11201,12,2025-04-17,Wednesday,Leave with doorman,Low
+17,Beverly,Logan,obrienveronica@example.org,7185551017,"203 Ian Streets, Brooklyn, NY",11205,6,2025-04-17,Monday,Call first,Low
+18,Robert,Walker,vanessasanders@example.com,7185551018,"9777 Michael Pike, Brooklyn, NY",11201,8,2025-04-17,Friday,Leave with doorman,Medium
+19,Brian,Hood,ramirezkimberly@example.org,7185551019,"34722 Wall Port, Brooklyn, NY",11217,8,2025-04-17,Friday,,Medium
+20,Richard,Carroll,patricia03@example.net,7185551020,"79783 Brett Knolls, Brooklyn, NY",11215,6,2025-04-17,Wednesday,Ring bell,Low
+21,Kayla,Miller,todd17@example.net,7185551021,"5808 Gonzalez Center, Brooklyn, NY",11201,6,2025-04-17,Monday,Leave at door,Low
+22,Jessica,Bowman,rgarcia@example.org,7185551022,"2770 Susan Stream, Brooklyn, NY",11206,6,2025-04-17,Friday,Ring bell,Low
+23,Kimberly,Atkinson,daughertyerin@example.org,7185551023,"869 Franklin Brook, Brooklyn, NY",11206,12,2025-04-17,Wednesday,Leave at door,High
+24,Gail,Wells,millerstephen@example.com,7185551024,"9734 Morton Rue, Brooklyn, NY",11217,12,2025-04-17,Thursday,,Low
+25,John,Taylor,lopezashley@example.net,7185551025,"1334 Gomez Extension, Brooklyn, NY",11217,8,2025-04-17,Tuesday,Leave at door,Low
+26,Thomas,Huang,wsantana@example.com,7185551026,"1429 Thomas Isle, Brooklyn, NY",11206,8,2025-04-17,Wednesday,Ring bell,Medium
+27,Thomas,Smith,brownjean@example.net,7185551027,"9996 Colleen Corner, Brooklyn, NY",11217,4,2025-04-17,Wednesday,Ring bell,Low
+28,Marcus,James,maureensmith@example.com,7185551028,"070 Stephen Trail, Brooklyn, NY",11201,8,2025-04-17,Wednesday,Leave at door,Low
+29,Devin,Fowler,oeaton@example.net,7185551029,"2228 Koch Curve, Brooklyn, NY",11215,8,2025-04-17,Monday,Leave at door,Low
+30,David,Santos,roy22@example.net,7185551030,"4096 Christopher Glen, Brooklyn, NY",11215,12,2025-04-17,Friday,Leave at door,Low
+31,Thomas,Hoover,parkereric@example.com,7185551031,"6368 Jerry Villages, Brooklyn, NY",11215,8,2025-04-17,Friday,Leave at door,Medium
+32,Kyle,Mitchell,wilsondanielle@example.net,7185551032,"5815 Green Shores, Brooklyn, NY",11215,8,2025-04-17,Tuesday,,Low
+33,Diane,Lang,srice@example.org,7185551033,"699 Nicole Lakes, Brooklyn, NY",11215,12,2025-04-17,Wednesday,Leave at door,Medium
+34,Jennifer,Smith,ccollins@example.net,7185551034,"036 Russell Corners, Brooklyn, NY",11205,16,2025-04-17,Wednesday,,Medium
+35,Jessica,Webster,heather88@example.org,7185551035,"22026 Bowman Spring, Brooklyn, NY",11201,8,2025-04-17,Friday,,Low
+36,Susan,Burke,dunnjoshua@example.net,7185551036,"94364 Reese Plains, Brooklyn, NY",11201,12,2025-04-17,Wednesday,Leave at door,Low
+37,Jeff,Shaffer,jhiggins@example.org,7185551037,"285 Garcia Pass, Brooklyn, NY",11206,8,2025-04-17,Tuesday,,Medium
+38,Deborah,Jacobson,gadams@example.com,7185551038,"48188 William Trail, Brooklyn, NY",11215,6,2025-04-17,Tuesday,Leave at door,Medium
+39,Michael,Avery,wvaughn@example.com,7185551039,"464 Kevin Road, Brooklyn, NY",11217,12,2025-04-17,Thursday,Leave at door,High
+40,James,Carroll,fosborne@example.net,7185551040,"607 Lucas Ramp, Brooklyn, NY",11206,12,2025-04-17,Wednesday,Leave at door,Low
+41,Melissa,Roberts,foleyjames@example.com,7185551041,"647 Rollins Lock, Brooklyn, NY",11215,16,2025-04-17,Thursday,,Medium
+42,Jason,Rasmussen,klynch@example.org,7185551042,"064 Mays Forks, Brooklyn, NY",11215,4,2025-04-17,Thursday,,Medium
+43,John,Hines,obrown@example.org,7185551043,"8946 Moore Plain, Brooklyn, NY",11201,6,2025-04-17,Wednesday,,Low
+44,Daniel,Valenzuela,changsteven@example.org,7185551044,"0649 Gordon Spur, Brooklyn, NY",11205,8,2025-04-17,Wednesday,Call first,Low
+45,Joseph,Owen,palmerphillip@example.org,7185551045,"86148 Nathaniel Highway, Brooklyn, NY",11215,6,2025-04-17,Friday,Leave at door,Low
+46,Sarah,Roberts,richardacosta@example.org,7185551046,"954 Shirley Highway, Brooklyn, NY",11215,12,2025-04-17,Monday,Ring bell,Low
+47,Jeffery,Marsh,kristinreyes@example.org,7185551047,"361 Reginald Village, Brooklyn, NY",11215,8,2025-04-17,Friday,Ring bell,High
+48,Emily,Murphy,wwilliams@example.org,7185551048,"14491 Antonio Mountains, Brooklyn, NY",11205,8,2025-04-17,Monday,Ring bell,Low
+49,Thomas,Maxwell,suttoncharles@example.com,7185551049,"55978 Heather Stravenue, Brooklyn, NY",11201,12,2025-04-17,Wednesday,Ring bell,Medium
+50,Ronald,Torres,mahoneyallison@example.net,7185551050,"162 Harrington Fork, Brooklyn, NY",11201,16,2025-04-17,Friday,Leave at door,Medium
+51,Joseph,Peters,tracy13@example.com,7185551051,"932 Janice Trafficway, Brooklyn, NY",11215,16,2025-04-17,Friday,Ring bell,High
+52,Monique,Carter,ambermoss@example.net,7185551052,"7438 Charles Corners, Brooklyn, NY",11206,16,2025-04-17,Friday,Leave at door,Medium
+53,Jason,Gibbs,codyreese@example.net,7185551053,"0923 Russell Rapid, Brooklyn, NY",11205,6,2025-04-17,Monday,Leave at door,Medium
+54,Debra,Robinson,rcummings@example.org,7185551054,"630 Pena Springs, Brooklyn, NY",11206,4,2025-04-17,Tuesday,Call first,High
+55,Tammy,Daniel,crystal50@example.net,7185551055,"62985 Austin Run, Brooklyn, NY",11201,8,2025-04-17,Tuesday,Leave at door,Medium
+56,Mary,Barnes,brian29@example.net,7185551056,"641 James Forges, Brooklyn, NY",11201,12,2025-04-17,Friday,Leave at door,Low
+57,Deborah,Perry,uingram@example.net,7185551057,"347 Victoria Trace, Brooklyn, NY",11201,12,2025-04-17,Thursday,Ring bell,Low
+58,Renee,Durham,thomasscott@example.net,7185551058,"0854 Rhodes Path, Brooklyn, NY",11217,12,2025-04-17,Thursday,,Low
+59,Bernard,Johnson,dayala@example.net,7185551059,"8790 Houston Islands, Brooklyn, NY",11215,8,2025-04-17,Wednesday,Ring bell,Low
+60,Clinton,Vang,tammy68@example.org,7185551060,"064 Amanda Ranch, Brooklyn, NY",11201,12,2025-04-17,Monday,Leave at door,Medium
+61,Peggy,Sloan,iunderwood@example.net,7185551061,"466 Cathy Dam, Brooklyn, NY",11205,6,2025-04-17,Monday,,Low
+62,Richard,Johnson,johntaylor@example.net,7185551062,"6226 Phillip Creek, Brooklyn, NY",11206,8,2025-04-17,Friday,Leave at door,Low
+63,Maria,Patton,uferguson@example.org,7185551063,"089 Gaines Rapids, Brooklyn, NY",11215,6,2025-04-17,Friday,,Medium
+64,Tyler,Douglas,michaelfernandez@example.org,7185551064,"3013 Christine Fort, Brooklyn, NY",11201,8,2025-04-17,Wednesday,Ring bell,Low
+65,Mary,Saunders,megan54@example.com,7185551065,"4895 Rachel Glens, Brooklyn, NY",11201,16,2025-04-17,Monday,Call first,Low
+66,Brent,Davenport,crystalcarroll@example.org,7185551066,"194 Andrea Lodge, Brooklyn, NY",11206,8,2025-04-17,Monday,Call first,Low
+67,Courtney,Davis,wilsontodd@example.org,7185551067,"04787 Campbell Branch, Brooklyn, NY",11206,12,2025-04-17,Friday,Call first,Low
+68,Travis,Flores,solomonmichael@example.net,7185551068,"8202 Gonzalez Mission, Brooklyn, NY",11201,8,2025-04-17,Friday,Leave at door,Low
+69,Sara,Kennedy,kristin31@example.org,7185551069,"67110 Anna Square, Brooklyn, NY",11201,4,2025-04-17,Thursday,Leave at door,Low
+70,Charles,Cruz,mwillis@example.net,7185551070,"01672 James Haven, Brooklyn, NY",11217,16,2025-04-17,Thursday,Leave at door,Low
+71,Reginald,Smith,dustinbrown@example.org,7185551071,"16275 Jordan Ports, Brooklyn, NY",11205,12,2025-04-17,Friday,,Low
+72,Michael,Baxter,wesley60@example.org,7185551072,"2540 Garcia Drives, Brooklyn, NY",11201,16,2025-04-17,Monday,Ring bell,Medium
+73,Andrew,Sanders,william63@example.com,7185551073,"499 Gibson Trail, Brooklyn, NY",11215,16,2025-04-17,Tuesday,Leave at door,Low
+74,Linda,Collier,welchlynn@example.org,7185551074,"3775 Sharon Via, Brooklyn, NY",11206,12,2025-04-17,Tuesday,Ring bell,Low
+75,Dawn,Doyle,bennettdarren@example.org,7185551075,"94078 Ramirez Mall, Brooklyn, NY",11217,16,2025-04-17,Thursday,Leave at door,High
+76,Patrick,Moore,meganjoyce@example.org,7185551076,"0119 Frederick Knoll, Brooklyn, NY",11206,6,2025-04-17,Friday,Leave at door,Low
+77,Timothy,Clark,qglover@example.com,7185551077,"76871 Paul Ferry, Brooklyn, NY",11201,12,2025-04-17,Monday,Call first,Low
+78,Ryan,Marshall,andrewcollins@example.net,7185551078,"125 Stacy Parkway, Brooklyn, NY",11215,8,2025-04-17,Wednesday,Leave at door,Low
+79,Patricia,Gray,juan95@example.net,7185551079,"2408 Pearson Oval, Brooklyn, NY",11215,12,2025-04-17,Friday,Leave at door,Low
+80,Amy,Edwards,spittman@example.com,7185551080,"40186 Kathleen Extensions, Brooklyn, NY",11206,8,2025-04-17,Friday,Leave with doorman,Medium
+81,Henry,Garcia,ashleyrogers@example.net,7185551081,"796 Smith Ranch, Brooklyn, NY",11206,8,2025-04-17,Tuesday,Leave at door,Low
+82,Sarah,Howard,williamsmary@example.com,7185551082,"375 Jodi Glens, Brooklyn, NY",11217,12,2025-04-17,Thursday,Ring bell,Medium
+83,Dennis,Williams,krystal98@example.org,7185551083,"59488 Adam Trail, Brooklyn, NY",11217,6,2025-04-17,Monday,Ring bell,Low
+84,Ralph,Carter,rosarioanthony@example.net,7185551084,"20917 Fletcher Spurs, Brooklyn, NY",11205,8,2025-04-17,Wednesday,Leave at door,Low
+85,Daniel,Wright,taylor03@example.net,7185551085,"418 Curtis Squares, Brooklyn, NY",11206,4,2025-04-17,Thursday,,High
+86,Erica,Boyd,wrodriguez@example.com,7185551086,"58101 Kimberly Freeway, Brooklyn, NY",11215,12,2025-04-17,Friday,Leave at door,Medium
+87,Cassandra,Clements,warnererica@example.org,7185551087,"016 Miller Drive, Brooklyn, NY",11215,6,2025-04-17,Friday,Leave with doorman,Medium
+88,Curtis,James,henry70@example.net,7185551088,"96580 Angela Club, Brooklyn, NY",11201,8,2025-04-17,Tuesday,Ring bell,Medium
+89,Steven,Rivers,ibaker@example.org,7185551089,"740 Ashley Stream, Brooklyn, NY",11205,6,2025-04-17,Thursday,Call first,Medium
+90,Carolyn,Garcia,bhayes@example.com,7185551090,"41642 Linda Gardens, Brooklyn, NY",11217,16,2025-04-17,Friday,Leave at door,Low
+91,Kathleen,Johnson,kdelacruz@example.net,7185551091,"4461 Mark Mount, Brooklyn, NY",11217,6,2025-04-17,Friday,Leave at door,High
+92,Summer,Miller,trogers@example.com,7185551092,"76543 Thomas Track, Brooklyn, NY",11205,8,2025-04-17,Thursday,Leave at door,High
+93,Douglas,Smith,jmurillo@example.org,7185551093,"95071 Thompson View, Brooklyn, NY",11215,8,2025-04-17,Thursday,Leave at door,Medium
+94,Pamela,Marshall,bbrady@example.org,7185551094,"389 Pham Light, Brooklyn, NY",11215,8,2025-04-17,Tuesday,Leave at door,Low
+95,Michael,Morgan,jrice@example.org,7185551095,"653 Brown Overpass, Brooklyn, NY",11201,8,2025-04-17,Tuesday,Leave with doorman,Medium
+96,Jeffrey,Sanders,tina24@example.org,7185551096,"7647 Simpson Brooks, Brooklyn, NY",11217,12,2025-04-17,Wednesday,Ring bell,High
+97,Jeremy,Day,davidlucas@example.org,7185551097,"385 Brent Gateway, Brooklyn, NY",11205,8,2025-04-17,Monday,Leave at door,High
+98,Bailey,Phillips,tonipatterson@example.com,7185551098,"276 Terry Valley, Brooklyn, NY",11201,16,2025-04-17,Friday,Leave at door,Low
+99,Jason,Hooper,kevin33@example.net,7185551099,"69490 Powell Radial, Brooklyn, NY",11206,16,2025-04-17,Thursday,Ring bell,High
+100,Rachel,Rodriguez,angelsoto@example.com,7185551100,"632 Eric Light, Brooklyn, NY",11205,12,2025-04-17,Monday,Call first,Low
