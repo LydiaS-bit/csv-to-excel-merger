@@ -1,4 +1,0 @@
-TERMINAL CODES IN VISUAL STUDIO CODE: 
-step 1. cd "C:\Users\lee\OneDrive\Desktop\merge-csvs-to-excel"                  ------- to locate your project folder
-step 2.  dir      ------- to confirm that you're in the right place
-
